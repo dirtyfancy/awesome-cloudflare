@@ -198,6 +198,7 @@
 | 项目                                                                        | 简介                                                                              | 在线地址                      | 状态   |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ----------------------------- | ------ |
 | [awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) | 21个S3兼容对象存储提供商的全面比较，包括Cloudflare R2。涵盖定价、陷阱和迁移成本。 | <https://storage.mixpeek.com> | 维护中 |
+| [Easemic](https://github.com/dirtyfancy/easemic)                            | 开源原生 Android 漫画阅读器（Kotlin + Jetpack Compose），支持通过 Cloudflare OAuth 一键创建并绑定 Cloudflare R2 存储桶进行端到端加密云流式阅读与备份，以及本地 CBZ/ZIP 和自托管 OPDS 目录。 | <https://easemic.com>         | 维护中 |
 
 ## 测速
 
